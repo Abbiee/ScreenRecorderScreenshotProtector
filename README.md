@@ -16,3 +16,4 @@ https://stackoverflow.com/questions/56731764/observe-and-delete-screenshot-if-a-
 OBJC  
 https://stackoverflow.com/a/26390199/14621362
 https://stackoverflow.com/a/31450356/14621362
+https://stackoverflow.com/questions/8867496/get-last-image-from-photos-app
